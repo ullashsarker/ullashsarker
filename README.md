@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Anthony Saskar
+# 👋 Hi, I'm Anthony Sarkar
 
 ### Credit Monitoring Officer | Web Developer & Automation Enthusiast
 
