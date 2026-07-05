@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Anthony Sarkar
+# 👋 Hi, I'm Anthony Sarker
 
 ### Credit Monitoring Officer | Web Developer & Automation Enthusiast
 
@@ -14,6 +14,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Marketing, Design & AI Tools -->
+![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-9B51E0?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
 <!-- OS & Environments -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
